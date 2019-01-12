@@ -1,0 +1,3 @@
+[submodule "echarts_dbapac_pypkg/resources"]
+	path = echarts_dbapac_pypkg/resources
+	url = https://github.com/jediwang311/echarts-dbapac-js

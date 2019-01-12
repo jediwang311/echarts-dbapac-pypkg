@@ -1,0 +1,4 @@
+include README.rst
+include CHANGELOG.rst
+include echarts_dbapac_pypkg/resources/echarts-dbapac-js/*.js
+include echarts_dbapac_pypkg/resources/registry.json

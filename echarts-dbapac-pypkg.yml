@@ -1,0 +1,16 @@
+name: "echarts-dbapac-pypkg"
+organisation: "jediwang311/Jediwang"
+author: "Jediwang"
+contact: "jedi.wang@aliyun.com"
+company: "Jediwang"
+version: "0.0.1"
+current_version: "0.0.1"
+release: "0.0.0"
+copyright_year: 2019
+license: MIT
+nowheel: true
+nodocs: true
+dependencies:
+  - lml>=0.0.2
+  - pyecharts-jupyter-installer==0.0.3
+description: "pyecharts map extension - DBSchenker APAC region - python package"

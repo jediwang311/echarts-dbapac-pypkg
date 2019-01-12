@@ -1,0 +1,7 @@
+{% extends 'README.rst.jj2' %}
+
+{% block documentation_link %}
+{% endblock %}
+
+{% block features %}The project packages `echarts-dbapac-js <https://github.com/echarts-maps/echarts-dbapac-js>`_ and distributes it via pypi.
+{% endblock %}
