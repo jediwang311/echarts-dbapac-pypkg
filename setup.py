@@ -4,6 +4,8 @@
 import os
 import sys
 import codecs
+import locale
+import platform
 from shutil import rmtree
 
 from setuptools import Command, setup, find_packages
